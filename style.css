@@ -5,17 +5,17 @@
     font-family: sans-serif;
     outline: none;
 }
-h1{
-    text-align: center;
-    margin-bottom: -80px;
-    margin-top: 50px;
-
-}
 .container{
     height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
+}
+h1{
+    text-align: center;
+    margin-bottom: -80px;
+    margin-top: 50px;
+
 }
 .calculator{
     background-color: #ecf0f3;
